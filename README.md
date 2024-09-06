@@ -3,6 +3,10 @@
 Hey! I'm Jainish.
 
 
-# Subheader
+## Subheader
 
 My full name is Jainishkumar Pandya
+
+## Local development
+
+1. Open index.html in your browser.
